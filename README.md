@@ -2,6 +2,10 @@
 
 This project is a **Meta AI Chatbot** application built using **React Native**. The chatbot is powered by **Llama 3** and integrates with the **Hugging Face API** to generate any kind of text on demand. The user interface closely resembles the original **Meta AI Chatbot** available on WhatsApp.
 
+## APK Download Link
+
+You can download the app from the following link: [https://drive.google.com/file/d/1jks00QfnuqduNJfB8UhE79Si2jAlD33w/view?usp=sharing](https://drive.google.com/file/d/1jks00QfnuqduNJfB8UhE79Si2jAlD33w/view?usp=sharing)
+
 ## Features
 
 - **Text Generation**: Generate any type of text based on user input using advanced AI capabilities.
