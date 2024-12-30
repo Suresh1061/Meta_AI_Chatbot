@@ -4,7 +4,7 @@ This project is a **Meta AI Chatbot** application built using **React Native**. 
 
 ## APK Download Link
 
-You can download the app from the following link: [https://drive.google.com/file/d/1jks00QfnuqduNJfB8UhE79Si2jAlD33w/view?usp=sharing](https://drive.google.com/file/d/1jks00QfnuqduNJfB8UhE79Si2jAlD33w/view?usp=sharing)
+You can download the app from the following link: [https://drive.google.com/file/d/1cUnLfJPq_cKHPDdF1DykQVzrqPiZLlOp/view?usp=drive_link](https://drive.google.com/file/d/1cUnLfJPq_cKHPDdF1DykQVzrqPiZLlOp/view?usp=drive_link)
 
 ## Features
 
@@ -22,7 +22,7 @@ You can download the app from the following link: [https://drive.google.com/file
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/meta-ai-chatbot.git
+   git clone https://github.com/Suresh1061/Meta_AI_Chatbot.git
    cd meta-ai-chatbot
 
 2. Install dependencies:
