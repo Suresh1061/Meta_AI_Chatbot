@@ -4,7 +4,7 @@ This project is a **Meta AI Chatbot** application built using **React Native**. 
 
 ## APK Download Link
 
-You can download the app from the following link: [APK Download Link](https://www.upload-apk.com/en/gmsskwh8a7WwFWe)
+You can download the app from the following link: [APK Download Link](https://www.upload-apk.com/en/phwmQvLAMlv9fMy)
 
 ## Features
 
